@@ -5,8 +5,8 @@
       <mapping pattern="Song" type="CLASS" />
       <mapping pattern="Viewer" type="JAVA" />
       <mapping pattern=".info" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="robot" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
