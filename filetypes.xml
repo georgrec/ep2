@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="test" type="CLASS" />
       <mapping pattern="Song" type="CLASS" />
-      <mapping pattern="Viewer" type="JAVA" />
       <mapping pattern="MainApplication" type="JAVA" />
+      <mapping pattern="Viewer" type="JAVA" />
       <mapping pattern=".info" type="PLAIN_TEXT" />
       <mapping ext="robot" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
